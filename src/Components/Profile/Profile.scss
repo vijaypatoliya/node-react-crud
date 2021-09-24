@@ -1,0 +1,13 @@
+.user-section{
+    margin-left:-5px;
+    margin-top: 15px;
+    
+    .euiComment .euiCommentTimeline{
+        margin-right: 6px !important;
+    }
+    
+    .euiCommentTimeline__icon--default.euiCommentTimeline__icon--update{
+        width: 30px !important;
+        height: 30px !important;
+    }
+}
